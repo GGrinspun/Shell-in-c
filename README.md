@@ -1,4 +1,4 @@
-# Shell in c
+# Shell  c
  shell feito para implementação da disciplina infraestrutura de software 2022.2
 
 ## Execução batch, saída com exit, style sequential (1,0)-:white_check_mark:
